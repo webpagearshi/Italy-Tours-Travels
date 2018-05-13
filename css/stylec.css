@@ -1,0 +1,27 @@
+.container-fluid{
+	margin-top: 100px;
+	
+
+}
+@media only screen and (max-width: 600px){
+	.container-fluid{
+		max-width: 400px !important;
+	}
+
+	.booking{
+		width: 250px!important;
+		
+	}
+	#crmWebToEntityForm{
+		width: 280px!important;
+		margin: 0px !important;
+	}
+
+}
+/* to create shadow*/
+.booking{
+	border: 1px solid #c7e7f6;
+	-moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+}

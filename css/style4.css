@@ -1,0 +1,13 @@
+.display-4{
+	text-align:center;
+	margin: 60px;
+}
+.lead{
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	margin: 20px;
+}
+.jumbotron-fluid{
+	height:600px;
+}
